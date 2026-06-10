@@ -1,4 +1,4 @@
-About
+#PHISHING AWARNESS
 This is a PowerPoint presentation created as part of the CodeAlpha Cyber Security Internship. It covers phishing attacks, how to recognize them, and how to stay safe online.
 What's Covered
 
